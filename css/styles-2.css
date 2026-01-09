@@ -1,0 +1,13 @@
+/*
+  ./css/styles-2.css of toggle-nav
+*/
+@media (max-width: 768px) {
+  .navbar-default {
+    display: none !important;
+  }
+}
+@media (min-width: 769px) {
+  .navbar-default {
+    display: block !important;
+  }
+}
